@@ -1,4 +1,4 @@
-# scaffold-react-mono
+# scaffold-preact-mono
 
 ## Licence
 
